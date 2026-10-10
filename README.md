@@ -175,72 +175,7 @@
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <h3>🛡️ Security</h3>
-  <p>
-  • Anti-Delete System<br>
-  • Anti-ViewOnce System<br>
-  • Anti-Link Protection<br>
-  • Anti-Spam Guard<br>
-  • Group Security
-  </p>
-</td>
-<td align="center" width="33%">
-  <h3>🤖 AI Features</h3>
-  <p>
-  • AI Chat (Groq)<br>
-  • Image Generation<br>
-  • Voice Reply<br>
-  • Smart Auto-Reply<br>
-  • AI Story Maker
-  </p>
-</td>
-<td align="center" width="33%">
-  <h3>📥 Downloaders</h3>
-  <p>
-  • YouTube Video<br>
-  • YouTube Audio (MP3)<br>
-  • TikTok No-Watermark<br>
-  • Facebook Video<br>
-  • Instagram Reels
-  </p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <h3>🎨 Media Tools</h3>
-  <p>
-  • Sticker Maker<br>
-  • Image to Sticker<br>
-  • Photo Editor<br>
-  • Text to Image<br>
-  • Logo Maker
-  </p>
-</td>
-<td align="center" width="33%">
-  <h3>👥 Group Tools</h3>
-  <p>
-  • Welcome/Goodbye<br>
-  • Promote/Demote<br>
-  • Tag All<br>
-  • Mute/Unmute<br>
-  • Group Stats
-  </p>
-</td>
-<td align="center" width="33%">
-  <h3>⚙️ Bot Control</h3>
-  <p>
-  • Public/Private Mode<br>
-  • Auto Read/Reply<br>
-  • Custom Prefix<br>
-  • Menu Design<br>
-  • Session Management
-  </p>
-</td>
-</tr>
-</table>
+
 
 </div>
 
